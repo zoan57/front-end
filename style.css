@@ -1,5 +1,5 @@
     body {
-        font-size: 20px;
+        font-size: 18px;
         color: rgb(36, 36, 142);
         background-color: #929e8f;
         width: 80%;
@@ -10,12 +10,27 @@
     }
     
     img {
-        max-width: 500px;
-        max-height: 500px;
-        width: 80%;
+        max-width: 60%;
         margin: auto;
         margin-left: 10%;
-        margin-bottom: 10%;
+    }
+    
+    footer {
+        font-size: 18px;
+        color: rgb(36, 36, 142);
+        background-color: #929e8f;
+        width: 80%;
+        margin: auto;
+        font-family: tensentype-ruihei, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    
+    figcaption {
+        max-width: 60%;
+        margin: auto;
+        margin-left: 10%;
+        color: black;
     }
     
     fieldset {
@@ -42,4 +57,10 @@
     
     a:visited {
         color: brown;
+    }
+    
+    .experience-title {
+        font-size: larger;
+        color: black;
+        padding-bottom: 10%;
     }
