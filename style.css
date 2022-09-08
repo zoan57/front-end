@@ -9,6 +9,15 @@
         font-style: normal;
     }
     
+    img {
+        max-width: 500px;
+        max-height: 500px;
+        width: 80%;
+        margin: auto;
+        margin-left: 10%;
+        margin-bottom: 10%;
+    }
+    
     fieldset {
         border-radius: 1em;
         background-color: #f1f0ea;
