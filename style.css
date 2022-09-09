@@ -1,5 +1,5 @@
     header {
-        background-color: rgb(94, 96, 181);
+        background-color: #5e60b5;
         color: white;
         text-align: center;
         font-size: 1.8rem;
@@ -9,7 +9,7 @@
     
     body {
         font-size: 18px;
-        color: rgb(98, 49, 55);
+        color: #623137;
         background-color: #ebdf5f;
         width: 80%;
         margin: auto;
@@ -26,13 +26,14 @@
     
     footer {
         font-size: 18px;
-        color: rgb(36, 36, 142);
-        background-color: #929e8f;
-        width: 80%;
-        margin: auto;
+        color: white;
+        background-color: #5e60b5;
+        margin: 2%;
         font-family: tensentype-ruihei, sans-serif;
         font-weight: 300;
         font-style: normal;
+        line-height: 2rem;
+        text-align: center;
     }
     
     figcaption {
@@ -57,6 +58,10 @@
         color: black;
         font-weight: 600;
         font-size: larger;
+    }
+    
+    .footer-padding {
+        padding-right: 10%;
     }
     
     a:hover {
