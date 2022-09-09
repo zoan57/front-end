@@ -26,7 +26,6 @@
     
     footer {
         font-size: 18px;
-        color: white;
         background-color: #5e60b5;
         width: 80%;
         margin: auto;
@@ -62,6 +61,7 @@
     
     .footer-padding {
         padding-right: 6%;
+        color: white;
     }
     
     a:hover {
