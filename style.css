@@ -1,18 +1,27 @@
+    header {
+        background-color: rgb(94, 96, 181);
+        color: white;
+        text-align: center;
+        font-size: 1.8rem;
+        padding-top: 5%;
+        height: 60px;
+    }
+    
     body {
         font-size: 18px;
-        color: rgb(36, 36, 142);
-        background-color: #929e8f;
+        color: rgb(98, 49, 55);
+        background-color: #ebdf5f;
         width: 80%;
         margin: auto;
         font-family: tensentype-ruihei, sans-serif;
         font-weight: 300;
         font-style: normal;
+        line-height: 2rem;
     }
     
     img {
         max-width: 60%;
         margin: auto;
-        margin-left: 10%;
     }
     
     footer {
@@ -27,9 +36,6 @@
     }
     
     figcaption {
-        max-width: 60%;
-        margin: auto;
-        margin-left: 10%;
         color: black;
     }
     
@@ -37,6 +43,8 @@
         border-radius: 1em;
         background-color: #f1f0ea;
         padding: 1% 5%;
+        border: solid 3px;
+        border-color: black;
         max-width: 800px auto;
         margin-top: 4%;
     }
