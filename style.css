@@ -24,6 +24,17 @@
         margin: auto;
     }
     
+    button {
+        max-width: 340px;
+        max-height: 40px;
+        background-color: rgb(55, 80, 155);
+        border-radius: 10px;
+        border-style: groove;
+        font-family: tensentype-ruihei, sans-serif;
+        font-size: medium;
+        color: white;
+    }
+    
     footer {
         font-size: 1rem;
         background-color: #5e60b5;
